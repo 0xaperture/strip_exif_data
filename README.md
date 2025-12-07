@@ -17,10 +17,10 @@ Prerequisite: Must have [Python](http://www.python.com) installed.
 1. Save files to directory of your choosing.
 2. Run "install_dependencies.bat"
 3. Open "run_strip_exif_data.bat". Change the following to the appropriate folder input and output folders. Save.
-```
-set INPUT_DIR=.\Photos\Export_With_Metadata
-set OUTPUT_DIR=.\Photos\Export_Clean
-```
+
+set INPUT_DIR=<b>.\Photos\Export_With_Metadata</b>
+set OUTPUT_DIR=<b>.\Photos\Export_Clean</b>
+
 4. Place photos with metadata in the input folder location.
 5. Double-click "run_strip_exif_data.bat"
 6. You will see EXIF-free copies of the photos in the output folder.  Only copyright information will be preserved.
