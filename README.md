@@ -16,7 +16,7 @@ Prerequisite: Must have [Python](http://www.python.com) installed.
 
 1. Save files to directory of your choosing.
 2. Run "install_dependencies.bat"
-3. Open "run_strip_exif_data.bat". Change the following to the appropriate folder input and output folders. Save.
+3. Open "run_strip_exif_data.bat". Change the following input and output folder names to the appropriate folder names in your PC. Save.
 
 - set INPUT_DIR=<i>.\Photos\Export_With_Metadata</i></br>
 - set OUTPUT_DIR=<i>.\Photos\Export_Clean</i>
